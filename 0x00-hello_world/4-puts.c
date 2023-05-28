@@ -1,6 +1,8 @@
 #include<stdio.h>
 /**
-  *always returns 0
+ *Betty compliance is aligned. 
+ *Always returns 0
+ *always returns 0
   */
 
 int main(void)
